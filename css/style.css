@@ -1,0 +1,25 @@
+body {
+    background: url('../img/yop.png') no-repeat fixed;
+    background-position: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    position: absolute;
+}
+
+#no-button {
+    margin-left: 75px;
+}
